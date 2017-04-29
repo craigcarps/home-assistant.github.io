@@ -38,7 +38,7 @@ Configuration variables:
 Currently known supported models:
 
 - C7700
-- D7000
+- D7000 (pip3 install websocket-client` must be executed)
 - D8000
 - ES5500
 - ES6800
