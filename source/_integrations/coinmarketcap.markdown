@@ -37,3 +37,7 @@ display_currency_decimals:
 {% endconfiguration %}
 
 All supported currencies can be found [here](https://coinmarketcap.com/api/documentation/v1/#section/Standards-and-Conventions), a list of currency IDs can be found [here](https://api.coinmarketcap.com/v2/ticker/).
+
+Please note, this integration no longer works as the Coin Market Cap API has changed, please see the open issue here:
+https://github.com/home-assistant/core/issues/32551
+Included in the issue notes are some work around options for extracting coin prices.
